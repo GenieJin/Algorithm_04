@@ -6,3 +6,6 @@ Model 1
 
 Model 2
 ![Model2_Plot images and probability that model predicted wrong](https://user-images.githubusercontent.com/62103387/82754216-79485f80-9e06-11ea-9ec8-85f9addf47f9.PNG)
+
+Model 3
+![Model3_Plot images and probability that model predicted wrong](https://user-images.githubusercontent.com/62103387/82754284-dfcd7d80-9e06-11ea-9e0e-7846eaaaf677.PNG)
